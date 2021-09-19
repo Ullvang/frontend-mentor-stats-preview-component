@@ -1,7 +1,9 @@
 :root {
   font-size: 15px;
 }
-
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   color: white;

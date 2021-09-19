@@ -46,6 +46,7 @@ footer {
 
 picture {
   width: 100%;
+  display: flex;
 }
 
 picture > img {

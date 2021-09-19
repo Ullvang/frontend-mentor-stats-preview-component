@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,QACF,CCFA,aACE,cAAe,CACf,iBACF,CACA,eACE,aACF","file":"main.c910a2b5.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n",".attribution {\n  font-size: 11px;\n  text-align: center;\n}\n.attribution a {\n  color: hsl(228, 45%, 44%);\n}\n"]}

@@ -5,12 +5,14 @@ footer {
 } */
 
 #card {
+  display: flex;
+  flex-direction: column;
   border-radius: 12px / 10px;
   /* border: white solid 2px; */
-  margin-top: clamp(70px, 20%, 200px);
+  margin-top: clamp(70px, 20%, 400px);
   margin-left: clamp(10px, 5%, 50px);
   margin-right: clamp(10px, 5%, 50px);
-  margin-bottom: clamp(70px, 20%, 200px);
+  margin-bottom: clamp(70px, 20%, 400px);
   overflow: hidden;
   background-color: hsl(244, 38%, 16%);
 }

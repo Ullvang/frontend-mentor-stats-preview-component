@@ -1,4 +1,5 @@
 import "./App.css";
+import "./App.responsive.css";
 import imageHeaderMobile from "./images/image-header-mobile.jpg";
 
 function App() {

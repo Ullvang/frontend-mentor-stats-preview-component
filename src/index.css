@@ -1,3 +1,17 @@
+:root {
+  font-size: 15px;
+}
+
 body {
   margin: 0;
+  color: white;
+  background-color: hsl(233, 47%, 7%);
+  font-family: "Inter", sans-serif;
+  /* Regular 400 Bold 700 */
+  /* font-family: 'Lexend Deca', sans-serif; */
+  /* Regular 400 */
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
 }

@@ -1,6 +1,7 @@
 import "./App.css";
 import "./App.responsive.css";
 import imageHeaderMobile from "./images/image-header-mobile.jpg";
+import imageHeaderDesktop from "./images/image-header-desktop.jpg";
 
 function App() {
   return (
@@ -9,7 +10,12 @@ function App() {
         <section id="card">
           {/* <div id="image-contianer">
             <div id="image-overlay"></div> */}
-          <img src={imageHeaderMobile} alt="people sitting around table" />
+
+          <picture>
+            <source media="(min-width: 1000px)" srcSet={imageHeaderDesktop} />
+            <img src={imageHeaderMobile} alt="people sitting around table" />
+          </picture>
+
           {/* </div> */}
           <div id="info-box">
             <h1>

@@ -15,6 +15,7 @@
   }
   picture {
     width: 100%;
+    min-height: 372.362px;
   }
 
   /* picture > image {
@@ -52,6 +53,9 @@
 }
 
 @media screen and (max-width: 1400px) and (min-width: 1000px) {
+  picture {
+    min-height: 496.038px;
+  }
   #card {
     width: 85%;
   }

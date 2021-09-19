@@ -13,7 +13,11 @@ function App() {
 
           <picture>
             <source media="(min-width: 1000px)" srcSet={imageHeaderDesktop} />
-            <img src={imageHeaderMobile} alt="people sitting around table" />
+            <img
+              // height="368.362px"
+              src={imageHeaderMobile}
+              alt="people sitting around table"
+            />
           </picture>
 
           {/* </div> */}

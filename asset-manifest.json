@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-stats-preview-component/static/css/main.b292c16a.chunk.css",
+    "main.css": "/frontend-mentor-stats-preview-component/static/css/main.318c9f11.chunk.css",
     "main.js": "/frontend-mentor-stats-preview-component/static/js/main.8ffc3995.chunk.js",
     "main.js.map": "/frontend-mentor-stats-preview-component/static/js/main.8ffc3995.chunk.js.map",
     "runtime-main.js": "/frontend-mentor-stats-preview-component/static/js/runtime-main.1d8e86ec.js",
@@ -8,7 +8,7 @@
     "static/js/2.2527ae0d.chunk.js": "/frontend-mentor-stats-preview-component/static/js/2.2527ae0d.chunk.js",
     "static/js/2.2527ae0d.chunk.js.map": "/frontend-mentor-stats-preview-component/static/js/2.2527ae0d.chunk.js.map",
     "index.html": "/frontend-mentor-stats-preview-component/index.html",
-    "static/css/main.b292c16a.chunk.css.map": "/frontend-mentor-stats-preview-component/static/css/main.b292c16a.chunk.css.map",
+    "static/css/main.318c9f11.chunk.css.map": "/frontend-mentor-stats-preview-component/static/css/main.318c9f11.chunk.css.map",
     "static/js/2.2527ae0d.chunk.js.LICENSE.txt": "/frontend-mentor-stats-preview-component/static/js/2.2527ae0d.chunk.js.LICENSE.txt",
     "static/media/image-header-desktop.72d6e2a0.jpg": "/frontend-mentor-stats-preview-component/static/media/image-header-desktop.72d6e2a0.jpg",
     "static/media/image-header-mobile.399f71e7.jpg": "/frontend-mentor-stats-preview-component/static/media/image-header-mobile.399f71e7.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d8e86ec.js",
     "static/js/2.2527ae0d.chunk.js",
-    "static/css/main.b292c16a.chunk.css",
+    "static/css/main.318c9f11.chunk.css",
     "static/js/main.8ffc3995.chunk.js"
   ]
 }
